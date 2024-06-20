@@ -27,5 +27,6 @@ This project is deployed to Google Cloud Run
 
 Here is the cloud architecture:
 
+![G](https://github.com/bakachi/register-historyfingerspell/assets/112670496/8f7acebc-a65a-4397-9c5c-a90ebbb2fbde)
 
 # Thank you 👋 👋
